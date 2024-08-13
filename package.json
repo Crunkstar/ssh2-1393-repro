@@ -1,0 +1,13 @@
+{
+  "name": "ssh2-1393-repro",
+  "version": "0.0.1",
+  "description": "reproduction of ssh2 issue !1393",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ssh2": "1.15.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
